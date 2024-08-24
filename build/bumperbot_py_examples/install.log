@@ -1,6 +1,8 @@
+/home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/simple_parameter.py
 /home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/simple_publisher.py
 /home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/__init__.py
 /home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/simple_subscriber.py
+/home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/__pycache__/simple_parameter.cpython-310.pyc
 /home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/__pycache__/simple_publisher.cpython-310.pyc
 /home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/__pycache__/__init__.cpython-310.pyc
 /home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/__pycache__/simple_subscriber.cpython-310.pyc
@@ -13,5 +15,6 @@
 /home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples-0.0.0-py3.10.egg-info/dependency_links.txt
 /home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples-0.0.0-py3.10.egg-info/requires.txt
 /home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples-0.0.0-py3.10.egg-info/top_level.txt
+/home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples/simple_parameter
 /home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples/simple_publisher
 /home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples/simple_subscriber
