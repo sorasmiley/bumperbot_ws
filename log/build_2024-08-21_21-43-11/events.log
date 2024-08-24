@@ -1,0 +1,68 @@
+[0.000000] (-) TimerEvent: {}
+[0.003272] (bumperbot_description) JobQueued: {'identifier': 'bumperbot_description', 'dependencies': OrderedDict()}
+[0.003328] (bumperbot_py_examples) JobQueued: {'identifier': 'bumperbot_py_examples', 'dependencies': OrderedDict()}
+[0.003356] (bumperbot_description) JobStarted: {'identifier': 'bumperbot_description'}
+[0.050395] (bumperbot_description) JobProgress: {'identifier': 'bumperbot_description', 'progress': 'cmake'}
+[0.050937] (bumperbot_description) Command: {'cmd': ['/usr/bin/cmake', '/home/sora/bumperbot_ws/src/bumperbot_description', '-DCMAKE_INSTALL_PREFIX=/home/sora/bumperbot_ws/install/bumperbot_description'], 'cwd': '/home/sora/bumperbot_ws/build/bumperbot_description', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('LANGUAGE', 'en_US:en'), ('USER', 'sora'), ('LC_TIME', 'ja_JP.UTF-8'), ('XDG_SESSION_TYPE', 'wayland'), ('SHLVL', '1'), ('HOME', '/home/sora'), ('OLDPWD', '/home/sora'), ('DESKTOP_SESSION', 'ubuntu'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/terminator.desktop'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('LC_MONETARY', 'ja_JP.UTF-8'), ('MANAGERPID', '1436'), ('SYSTEMD_EXEC_PID', '1604'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('TERMINATOR_DBUS_NAME', 'net.tenshu.Terminator25ef4b219e3b005583550f2b0f9f990c3'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '6104'), ('IM_CONFIG_PHASE', '1'), ('WAYLAND_DISPLAY', 'wayland-0'), ('LOGNAME', 'sora'), ('JOURNAL_STREAM', '8:12742'), ('_', '/home/sora/.local/bin/colcon'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'sora'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('PATH', '/home/sora/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/sora:@/tmp/.ICE-unix/1560,unix/sora:/tmp/.ICE-unix/1560'), ('INVOCATION_ID', 'a186dde83d624967983aa429cedf2507'), ('PAPERSIZE', 'a4'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'ja_JP.UTF-8'), ('GNOME_SETUP_DISPLAY', ':1'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':0'), ('TERMINATOR_DBUS_PATH', '/net/tenshu/Terminator2'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('IBUS_DISABLE_SNOOPER', '1'), ('LC_TELEPHONE', 'ja_JP.UTF-8'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/.mutter-Xwaylandauth.UWF0S2'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('SHELL', '/bin/bash'), ('LC_NAME', 'ja_JP.UTF-8'), ('TERMINATOR_UUID', 'urn:uuid:efe531a6-a840-4bb8-963e-2ee7c53f9a76'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'ja_JP.UTF-8'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('LC_IDENTIFICATION', 'ja_JP.UTF-8'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/sora/bumperbot_ws/build/bumperbot_description'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('LC_NUMERIC', 'ja_JP.UTF-8'), ('LC_PAPER', 'ja_JP.UTF-8'), ('COLCON', '1'), ('VTE_VERSION', '6800')]), 'shell': False}
+[0.109719] (-) TimerEvent: {}
+[0.218759] (-) TimerEvent: {}
+[0.323685] (-) TimerEvent: {}
+[0.424846] (-) TimerEvent: {}
+[0.529629] (-) TimerEvent: {}
+[0.633237] (-) TimerEvent: {}
+[0.749979] (-) TimerEvent: {}
+[0.851313] (-) TimerEvent: {}
+[0.967329] (-) TimerEvent: {}
+[1.002177] (bumperbot_description) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.4.0\n'}
+[1.070918] (-) TimerEvent: {}
+[1.174533] (-) TimerEvent: {}
+[1.277788] (-) TimerEvent: {}
+[1.394884] (-) TimerEvent: {}
+[1.474207] (bumperbot_description) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.4.0\n'}
+[1.495615] (-) TimerEvent: {}
+[1.529097] (bumperbot_description) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[1.596274] (-) TimerEvent: {}
+[1.701188] (-) TimerEvent: {}
+[1.818130] (-) TimerEvent: {}
+[1.923088] (-) TimerEvent: {}
+[2.032489] (-) TimerEvent: {}
+[2.145554] (-) TimerEvent: {}
+[2.242023] (bumperbot_description) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[2.249591] (-) TimerEvent: {}
+[2.250219] (bumperbot_description) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[2.260375] (bumperbot_description) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[2.263648] (bumperbot_description) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[2.281999] (bumperbot_description) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[2.356604] (-) TimerEvent: {}
+[2.460111] (-) TimerEvent: {}
+[2.564247] (-) TimerEvent: {}
+[2.666730] (-) TimerEvent: {}
+[2.672370] (bumperbot_description) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[2.698237] (bumperbot_description) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[2.698507] (bumperbot_description) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[2.698919] (bumperbot_description) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[2.762240] (bumperbot_description) StderrLine: {'line': b'\x1b[31mCMake Error at CMakeLists.txt:8 (find_package):\n'}
+[2.762521] (bumperbot_description) StderrLine: {'line': b'  By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project\n'}
+[2.762613] (bumperbot_description) StderrLine: {'line': b'  has asked CMake to find a package configuration file provided by\n'}
+[2.762696] (bumperbot_description) StderrLine: {'line': b'  "ament_cmake", but CMake did not find one.\n'}
+[2.762770] (bumperbot_description) StderrLine: {'line': b'\n'}
+[2.762847] (bumperbot_description) StderrLine: {'line': b'  Could not find a package configuration file provided by "ament_cmake" with\n'}
+[2.762930] (bumperbot_description) StderrLine: {'line': b'  any of the following names:\n'}
+[2.763000] (bumperbot_description) StderrLine: {'line': b'\n'}
+[2.763073] (bumperbot_description) StderrLine: {'line': b'    ament_cmakeConfig.cmake\n'}
+[2.763145] (bumperbot_description) StderrLine: {'line': b'    ament_cmake-config.cmake\n'}
+[2.763216] (bumperbot_description) StderrLine: {'line': b'\n'}
+[2.763282] (bumperbot_description) StderrLine: {'line': b'  Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set\n'}
+[2.763350] (bumperbot_description) StderrLine: {'line': b'  "ament_cmake_DIR" to a directory containing one of the above files.  If\n'}
+[2.763433] (bumperbot_description) StderrLine: {'line': b'  "ament_cmake" provides a separate development package or SDK, be sure it\n'}
+[2.763515] (bumperbot_description) StderrLine: {'line': b'  has been installed.\n'}
+[2.763582] (bumperbot_description) StderrLine: {'line': b'\n'}
+[2.763647] (bumperbot_description) StderrLine: {'line': b'\x1b[0m\n'}
+[2.763713] (bumperbot_description) StdoutLine: {'line': b'-- Configuring incomplete, errors occurred!\n'}
+[2.763802] (bumperbot_description) StdoutLine: {'line': b'See also "/home/sora/bumperbot_ws/build/bumperbot_description/CMakeFiles/CMakeOutput.log".\n'}
+[2.782471] (-) TimerEvent: {}
+[2.785740] (bumperbot_description) CommandEnded: {'returncode': 1}
+[2.884069] (-) TimerEvent: {}
+[2.916235] (bumperbot_description) JobEnded: {'identifier': 'bumperbot_description', 'rc': 1}
+[2.917696] (bumperbot_py_examples) JobSkipped: {'identifier': 'bumperbot_py_examples'}
+[2.917744] (-) EventReactorShutdown: {}

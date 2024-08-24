@@ -1,0 +1,22 @@
+[2.417s] Invoking command in '/home/sora/bumperbot_ws/src/bumperbot_py_examples': PYTHONPATH=/home/sora/bumperbot_ws/build/bumperbot_py_examples/prefix_override:/home/sora/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_examples build --build-base /home/sora/bumperbot_ws/build/bumperbot_py_examples/build install --record /home/sora/bumperbot_ws/build/bumperbot_py_examples/install.log --single-version-externally-managed install_data
+[3.318s] running egg_info
+[3.321s] writing ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/PKG-INFO
+[3.341s] writing dependency_links to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/dependency_links.txt
+[3.342s] writing entry points to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/entry_points.txt
+[3.342s] writing requirements to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/requires.txt
+[3.343s] writing top-level names to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/top_level.txt
+[3.353s] reading manifest file '../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/SOURCES.txt'
+[3.353s] writing manifest file '../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/SOURCES.txt'
+[3.362s] running build
+[3.362s] running build_py
+[3.362s] running install
+[3.362s] running install_lib
+[3.362s] running install_data
+[3.374s] running install_egg_info
+[3.379s] removing '/home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples-0.0.0-py3.10.egg-info' (and everything under it)
+[3.382s] Copying ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info to /home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples-0.0.0-py3.10.egg-info
+[3.392s] running install_scripts
+[3.471s] Installing simple_publisher script to /home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples
+[3.476s] Installing simple_subscriber script to /home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples
+[3.478s] writing list of installed files to '/home/sora/bumperbot_ws/build/bumperbot_py_examples/install.log'
+[3.548s] Invoked command in '/home/sora/bumperbot_ws/src/bumperbot_py_examples' returned '0': PYTHONPATH=/home/sora/bumperbot_ws/build/bumperbot_py_examples/prefix_override:/home/sora/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/sora/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_examples build --build-base /home/sora/bumperbot_ws/build/bumperbot_py_examples/build install --record /home/sora/bumperbot_ws/build/bumperbot_py_examples/install.log --single-version-externally-managed install_data

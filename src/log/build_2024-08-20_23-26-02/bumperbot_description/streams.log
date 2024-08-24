@@ -1,0 +1,20 @@
+[0.055s] Invoking command in '/home/sora/bumperbot_ws/src/build/bumperbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sora/bumperbot_ws/src/build/bumperbot_description -- -j1 -l1
+[0.287s] Invoked command in '/home/sora/bumperbot_ws/src/build/bumperbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sora/bumperbot_ws/src/build/bumperbot_description -- -j1 -l1
+[0.426s] Invoking command in '/home/sora/bumperbot_ws/src/build/bumperbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sora/bumperbot_ws/src/build/bumperbot_description
+[0.452s] -- Install configuration: ""
+[0.453s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/ament_index/resource_index/package_run_dependencies/bumperbot_description
+[0.454s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/ament_index/resource_index/parent_prefix_path/bumperbot_description
+[0.454s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/bumperbot_description/environment/ament_prefix_path.sh
+[0.454s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/bumperbot_description/environment/ament_prefix_path.dsv
+[0.468s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/bumperbot_description/environment/path.sh
+[0.469s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/bumperbot_description/environment/path.dsv
+[0.469s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/bumperbot_description/local_setup.bash
+[0.469s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/bumperbot_description/local_setup.sh
+[0.469s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/bumperbot_description/local_setup.zsh
+[0.469s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/bumperbot_description/local_setup.dsv
+[0.469s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/bumperbot_description/package.dsv
+[0.469s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/ament_index/resource_index/packages/bumperbot_description
+[0.469s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/bumperbot_description/cmake/bumperbot_descriptionConfig.cmake
+[0.469s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/bumperbot_description/cmake/bumperbot_descriptionConfig-version.cmake
+[0.469s] -- Up-to-date: /home/sora/bumperbot_ws/src/install/bumperbot_description/share/bumperbot_description/package.xml
+[0.469s] Invoked command in '/home/sora/bumperbot_ws/src/build/bumperbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sora/bumperbot_ws/src/build/bumperbot_description
