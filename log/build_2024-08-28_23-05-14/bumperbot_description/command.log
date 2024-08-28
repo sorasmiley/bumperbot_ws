@@ -1,0 +1,2 @@
+Invoking command in '/home/sora/bumperbot_ws/build/bumperbot_description': /usr/bin/cmake --build /home/sora/bumperbot_ws/build/bumperbot_description -- -j1 -l1
+Invoked command in '/home/sora/bumperbot_ws/build/bumperbot_description' returned '2': /usr/bin/cmake --build /home/sora/bumperbot_ws/build/bumperbot_description -- -j1 -l1

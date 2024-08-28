@@ -4,7 +4,7 @@ from rcl_interfaces.msg import SetParametersResult
 from rclpy.parameter import Parameter
 
 class SimpleParameter(Node):
-    def __ini__(self): #initialize base class (Node)
+    def __init__(self): #initialize base class (Node)
         super().__init__("simple_parameter") #call init function of base class 
 
         self.declare_parameter("simple_int_param", 28)

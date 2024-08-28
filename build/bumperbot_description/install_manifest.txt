@@ -1,10 +1,12 @@
+/home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_left_link.stl
 /home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/base_link.stl
 /home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_right_link.stl
 /home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/caster_rear_link.stl
-/home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_left_link.STL
 /home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/caster_front_link.stl
 /home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/imu_link.STL
 /home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/urdf/bumperbot.urdf.xacro
+/home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/launch/display.launch.py
+/home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/rviz/display.rviz
 /home/sora/bumperbot_ws/install/bumperbot_description/share/ament_index/resource_index/package_run_dependencies/bumperbot_description
 /home/sora/bumperbot_ws/install/bumperbot_description/share/ament_index/resource_index/parent_prefix_path/bumperbot_description
 /home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/environment/ament_prefix_path.sh
