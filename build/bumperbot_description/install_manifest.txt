@@ -1,5 +1,6 @@
 /home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_left_link.stl
 /home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/base_link.stl
+/home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/can.stl
 /home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_right_link.stl
 /home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/caster_rear_link.stl
 /home/sora/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/caster_front_link.stl
